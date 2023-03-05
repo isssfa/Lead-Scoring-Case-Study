@@ -18,4 +18,4 @@ X Education has appointed you to help them select the most promising leads, i.e.
 1) <a href = "https://github.com/isssfa/Lead-Scoring-Case-Study/blob/master/Lead%20Scoring%20Case%20Study%20Final%20.ipynb">Final Lead Scoring Model Notebook
 2) <a href = "https://github.com/isssfa/Lead-Scoring-Case-Study/blob/master/Subjective_Questions.pdf">Subjective Questions
 3) <a href = "https://github.com/isssfa/Lead-Scoring-Case-Study/blob/master/Presentation.pdf"> Presentation
-4) <a href = "https://github.com/isssfa/Lead-Scoring-Case-Study/blob/master/Summary_Report(AM).pdf"> Summary Report
+4) <a href = "https://github.com/isssfa/Lead-Scoring-Case-Study/blob/master/Summary_Report.pdf"> Summary Report
